@@ -1,4 +1,3 @@
-#Terminado
 def int32_to_ip(int32):
     l=[]
     #convertidos de decimal a binario
